@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:build="http://schemas.microsoft.com/developer/appx/2012/build" IgnorableNamespaces="build">
+  <!--
+    ЭТОТ ФАЙЛ МАНИФЕСТА ПАКЕТА СОЗДАН ПРОЦЕССОМ СБОРКИ.
+
+    Изменения этого файла будут потеряны при его повторном создании. Чтобы исправить ошибки в этом файле, измените исходный файл .appxmanifest.
+
+ Дополнительные сведения о файлах манифестов приложений см. по адресу http://go.microsoft.com/fwlink/?LinkID=241727
+  -->
+  <Identity Name="7134af5e-9909-4847-ae1a-315ad2414c32" Publisher="CN=Александр" Version="1.0.0.3" ProcessorArchitecture="neutral" />
+  <mp:PhoneIdentity PhoneProductId="7134af5e-9909-4847-ae1a-315ad2414c32" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>Windows Mobile Aplication (Signs)</DisplayName>
+    <PublisherDisplayName>Alexandr Mikhailik</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.1</OSMinVersion>
+    <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="RU-RU" />
+    <Resource m2:Scale="100" />
+    <Resource m2:Scale="120" />
+    <Resource m2:Scale="140" />
+    <Resource m2:Scale="160" />
+    <Resource m2:Scale="180" />
+    <Resource m2:DXFeatureLevel="dx9" />
+    <Resource m2:DXFeatureLevel="dx10" />
+    <Resource m2:DXFeatureLevel="dx11" />
+    <Resource m3:Scale="200" />
+    <Resource m3:Scale="220" />
+    <Resource m3:Scale="240" />
+    <Resource m3:Scale="300" />
+    <Resource m3:Scale="400" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="App3.exe" EntryPoint="App3.App">
+      <m3:VisualElements DisplayName="Номерные знаки (Украина)" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="Расшифровка украинских номерных знаков (Украина)" ForegroundText="light" BackgroundColor="transparent">
+        <m3:LockScreen Notification="badge" BadgeLogo="Assets\BadgeLogo.png" />
+        <m3:DefaultTile Square71x71Logo="Assets\Square71x71Logo.png"></m3:DefaultTile>
+        <m3:SplashScreen Image="Assets\SplashScreen.png" />
+        <m3:InitialRotationPreference>
+          <m3:Rotation Preference="portrait" />
+        </m3:InitialRotationPreference>
+      </m3:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClientServer" />
+  </Capabilities>
+  <build:Metadata>
+    <build:Item Name="TargetFrameworkMoniker" Value="WindowsPhoneApp,Version=v8.1" />
+    <build:Item Name="VisualStudio" Version="14.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Enterprise 2015" />
+    <build:Item Name="OperatingSystem" Version="10.0.14915.1000 (rs_prerelease.160826-1902)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.25425.1" />
+    <build:Item Name="ProjectGUID" Value="{EB64F958-905E-4E2B-93A7-7D2FFA622EE2}" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.81.Build.Tasks.dll" Version="14.0.22705.1" />
+    <build:Item Name="MakePri.exe" Version="6.3.9600.17336 (winblue.150226-1500)" />
+  </build:Metadata>
+</Package>

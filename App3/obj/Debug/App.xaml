@@ -1,0 +1,13 @@
+﻿<Application
+    x:Class="App3.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App3">
+    <Application.Resources>
+        <ElementTheme x:Key="ElementTheme1">Dark</ElementTheme>
+        <x:Double x:Key="Double1">1</x:Double>
+        <FontFamily x:Key="FontFamily1">RoadNumbers</FontFamily>
+    </Application.Resources>
+
+</Application>
+

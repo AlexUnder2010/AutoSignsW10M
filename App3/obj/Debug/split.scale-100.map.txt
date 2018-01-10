@@ -1,0 +1,8 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\split.scale-100.pri"			"resources.pri"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\Assets\SplashScreen.scale-100.png"			"Assets\SplashScreen.scale-100.png"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\Assets\Logo.scale-100.png"			"Assets\Logo.scale-100.png"

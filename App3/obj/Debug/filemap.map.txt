@@ -1,0 +1,19 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-ru"
+
+[Files]
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\filemap.pri"			"resources.pri"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\App3.xr.xml"			"App3.xr.xml"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\App3.exe"			"App3.exe"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\App.xbf"			"App.xbf"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\Assets\WideLogo.scale-240.png"			"Assets\WideLogo.scale-240.png"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\Assets\StoreLogo.scale-240.png"			"Assets\StoreLogo.scale-240.png"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\Assets\Square71x71Logo.scale-240.png"			"Assets\Square71x71Logo.scale-240.png"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\Assets\Square44x44Logo.scale-240.png"			"Assets\Square44x44Logo.scale-240.png"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\Assets\Square150x150Logo.scale-240.png"			"Assets\Square150x150Logo.scale-240.png"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\Assets\SmallLogo.scale-240.png"			"Assets\SmallLogo.scale-240.png"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\Assets\Logo.scale-240.png"			"Assets\Logo.scale-240.png"
+"C:\Users\Александр\Documents\Visual Studio 2015\Projects\App3\App3\obj\Debug\PackageLayout\Assets\BadgeLogo.scale-240.png"			"Assets\BadgeLogo.scale-240.png"
